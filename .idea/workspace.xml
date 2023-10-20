@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c3def53-01bf-4595-a4d9-ed303f191a10" name="Changes" comment="Remove loggerName()">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/yates/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/yates/craps/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/yates/craps/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/yates/craps/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/yates/craps/Roll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="1c3def53-01bf-4595-a4d9-ed303f191a10" name="Changes" comment="Add utils module to gh" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -52,10 +42,9 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/jay/IdeaProjects/utils",
+    "last_opened_file_path": "/home/jay/IdeaProjects/Ass02_Craps",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697764295317</updated>
-      <workItem from="1697764296318" duration="3649000" />
+      <workItem from="1697764296318" duration="4021000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -114,15 +103,53 @@
       <option name="project" value="LOCAL" />
       <updated>1697764517933</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Wrote craps logic">
+      <option name="closed" value="true" />
+      <created>1697768148395</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697768148395</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finalized program">
+      <option name="closed" value="true" />
+      <created>1697768173939</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697768173939</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add utils module to gh">
+      <option name="closed" value="true" />
+      <created>1697768315509</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697768315509</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Remove loggerName()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove loggerName()" />
+    <MESSAGE value="Wrote craps logic" />
+    <MESSAGE value="Finalized program" />
+    <MESSAGE value="Add utils module to gh" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add utils module to gh" />
   </component>
 </project>
